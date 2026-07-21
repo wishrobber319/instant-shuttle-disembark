@@ -1,0 +1,9 @@
+[b]Shuttles unload instantly.[/b] Vanilla shuttles drip out one passenger per second. When a shuttle or airship lands, this empties all passengers, animals and cargo at once, so arrivals stop taking forever.
+
+[hr][/hr]
+[b]What's inside[/b]
+[list]
+[*][b]Everything out at once.[/b] Passengers, animals and cargo disembark instantly on landing.
+[*][b]Covers airships too.[/b] Works with Medieval Transport's airship as well as quest shuttles.
+[*][b]Compatible with other shuttle mods.[/b] It hooks the disembark step, so it plays nicely alongside them.
+[/list]
